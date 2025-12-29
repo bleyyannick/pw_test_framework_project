@@ -1,0 +1,3 @@
+[submodule "pw-practice-app-demo"]
+	path = pw-practice-app-demo
+	url = https://github.com/Bondar-Academy/playwright-practice-app
